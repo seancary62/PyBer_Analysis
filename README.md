@@ -7,15 +7,18 @@ Our most recent project with Pyber had us using Matplotlib to create several gra
 For this project we used Pandas and Matplotlib to create a summary by city type from ride share data. We also created a line graph comparing the total weekly fare by city types. This was done to determine where resource should be allocated. 
 
 ## Results
-![](analysis/pyber_summary_df.PNG)
-
 From the summary dataframe that we created there were several insights that could be useful.
+
+From the summary:
+![](analysis/pyber_summary_df.PNG)
 
 - There was a significantly lower amount of total rides and drivers for Rural and Suburban cities than Urban ones.
 - The average fare per ride was higher for Suburban and Rural drivers.
 - The average fare per driver was significantly higher in Rural and Suburban cities. 
 
 From the line graph:
+![](analysis/TotalFare_CityType.png)
+
 - Total Fare per Week by City Type seemed to follow a similar trend.
 - Total Fare for Urban cities was significantly higher than Rural or Suburban cities.
 
