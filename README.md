@@ -7,7 +7,7 @@ Our most recent project with Pyber had us using Matplotlib to create several gra
 For this project we used Pandas and Matplotlib to create a summary by city type from ride share data. We also created a line graph comparing the total weekly fare by city types. This was done to determine where resource should be allocated. 
 
 ## Results
-![](analysis/pyber_summary_df.png?raw=true)
+![](PyBer_Analysis/analysis/pyber_summary_df.png)
 
 From the summary dataframe that we created there were several insights that could be useful.
 
