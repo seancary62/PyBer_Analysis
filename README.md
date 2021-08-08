@@ -10,6 +10,7 @@ For this project we used Pandas and Matplotlib to create a summary by city type 
 From the summary dataframe that we created there were several insights that could be useful.
 
 From the summary:
+
 ![](analysis/pyber_summary_df.PNG)
 
 - There was a significantly lower amount of total rides and drivers for Rural and Suburban cities than Urban ones.
